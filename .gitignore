@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Harness run results (python3 run.py --output output/<target>)
+output/
+*.log
+
+# Editors / OS
+.idea/
+.vscode/
+.DS_Store

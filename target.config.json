@@ -1,0 +1,15 @@
+{
+  "url": "https://pax-poi-webapp.grab.com/",
+  "scope": [
+    "*.grab.com"
+  ],
+  "credentials": [
+    {
+      "username": "test",
+      "password": "test",
+      "role": "test"
+    }
+  ],
+  "model": "deepseek/deepseek-flash",
+  "full_crud": true
+}
